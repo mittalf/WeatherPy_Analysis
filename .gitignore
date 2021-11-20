@@ -1,7 +1,16 @@
+# Adding config.pyfile.
+Weather_Database/config.py
+Vacation_Search/config.py
+Vacation_Itinerary/config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+Weather_Database/__pycache__/
+Vacation_Search/__pycache__/
+Vacation_Itinerary/__pycache__/
 
 # C extensions
 *.so
@@ -76,6 +85,11 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+Weather_Database/.ipynb_checkpoints
+Vacation_Search/.ipynb_checkpoints
+Vacation_Itinerary/.ipynb_checkpoints
+
 
 # IPython
 profile_default/
